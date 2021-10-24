@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.scss"],"names":[],"mappings":"AAAA,EACE,qBAIF,YAHE,WAOF,GACE","file":"styles.565313a8.css","sourceRoot":"../src","sourcesContent":["a {\n  text-decoration: none;\n  color: black;\n}\n\na:visited {\n  color: #000000;\n}\n\nli {\n  list-style-type: none;\n}\n"]}
